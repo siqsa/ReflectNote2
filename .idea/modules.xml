@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ReflectNote.iml" filepath="$PROJECT_DIR$/ReflectNote.iml" />
+      <module fileurl="file://D:\ReflectNote\ReflectNote.iml" filepath="D:\ReflectNote\ReflectNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\ReflectNote\app\app.iml" filepath="D:\ReflectNote\app\app.iml" />
     </modules>
   </component>
 </project>
